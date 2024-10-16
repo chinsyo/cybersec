@@ -24,9 +24,30 @@
 - [Meltdown & Spectre](https://meltdownattack.com)
 
 - [Heartbleed](https://heartbleed.com/)
-
+- [Retbleed](https://)
 - [iPhone Wiki](https://theiphonewiki.com/wiki/Main_Page)
 
 - [DirtyCOW](https://dirtycow.ninja)
 - [DirtyPipe](https://dirtypipe.cm4all.com/)
 - [DirtyCred](https://zplin.me/papers/DirtyCred.pdf)
+
+### Commandline Tools
+- gcc
+- gdb
+
+- file
+- strings
+- ldd
+- readelf / objdump / objcopy / hexdump
+- checksec
+- strace / ltrace / mtrace
+- diff / cmp / vbindiff
+- nmap 
+- dmesg
+- afl++ / honggfuzz / libfuzzer
+- binwalk
+- metasploit
+- preeny
+- angr / unicorn / qemu / ghrida / capstone
+
+
