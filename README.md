@@ -9,7 +9,6 @@
 - [Cloudflare Blog](https://blog.cloudflare.com/tag/security/)
 - [Blackhat](https://blackhat.com)
 
-
 - [Xuanwu Lab](https://xlab.tencent.com/cn/)
 
 - [Siguza](https://siguza.net)
@@ -39,15 +38,25 @@
 - strings
 - ldd
 - readelf / objdump / objcopy / hexdump
-- checksec
-- strace / ltrace / mtrace
-- diff / cmp / vbindiff
-- nmap 
+- [radare2](https://github.com/radareorg/radare2)
+- [pmap](https://www.redhat.com/en/blog/pmap-command)
+- [checksec](https://github.com/slimm609/checksec)
+- strace / ltrace / mtrace / vmstat
+- diff / cmp / [vbindiff](https://github.com/madsen/vbindiff)
+- nmap / tcpdump 
 - dmesg
 - afl++ / honggfuzz / libfuzzer
-- binwalk
+- [binwalk](https://github.com/ReFirmLabs/binwalk)
 - metasploit
-- preeny
+- [preeny](https://github.com/ReFirmLabs/binwalk)
 - angr / unicorn / qemu / ghrida / capstone
+- [pin](https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-binary-instrumentation-tool-downloads.html)
 
-
+### Software
+- VMware Workstation Pro (Free for personal use)
+- System Installer Image (Windows / Ubuntu)
+- PEStudio
+- Jadx
+- IDA 9.0 Pro (beta)
+- Wireshark
+- x64dbg / windbg
